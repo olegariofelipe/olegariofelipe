@@ -1,6 +1,7 @@
 ## Olá, meu nome é Felipe Olegario 👋🏽😄
-### Sou um Cientista de Dados entusiasmado em resolver problemas usandos dados e estatística. 📊
+### Sou um estudante de Ciência de Dados de 26 anos de idade entusiasmado em resolver problemas usandos dados e estatística. 📊
 
+### - Graduando de Ciência de Dados na UNINTER 👨🏽‍🎓
 
 ![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=olegariofelipe&show_icons=true&theme=great-gatsby)
 
