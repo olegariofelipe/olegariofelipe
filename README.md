@@ -1,11 +1,11 @@
-## Olá, meu nome é Felipe Olegario 👋🏽😄
-### Sou um estudante de Ciência de Dados de 26 anos de idade entusiasmado em resolver problemas usandos dados e estatística. 📊
+### Olá, meu nome é Felipe Olegario 👋🏽😄
+#### Aspirante a Cientista de Dados, entusiasmado em resolver problemas através dos dados e estatística. 📊
 
-### - Graduando de Ciência de Dados na UNINTER 👨🏽‍🎓
+#### - Graduando de Ciência de Dados na UNINTER 👨📚
 
-![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=olegariofelipe&show_icons=true&theme=great-gatsby)
+![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=olegariofelipe&show_icons=true&theme=vue-dark)
 
-### Ferramentas que uso no meu cotidiano:
+#### Ferramentas:
 
 <div style="display: inlineblock">
     <image align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -14,7 +14,7 @@
     <image align="center" alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 </div>
 
-#### Meus sites:
+#### Sites:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olegariofelipe/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@felipeolegariosantos)
